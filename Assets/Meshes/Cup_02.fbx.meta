@@ -7,6 +7,11 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
+      name: Cup_02_Top_Mat
+    second: {fileID: 2100000, guid: 89be68a828d04354f9e2b8934b67d9b8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
       name: Cup_Mat
     second: {fileID: 2100000, guid: c28d686f55c3d27489324ec081cc65b6, type: 2}
   materials:
