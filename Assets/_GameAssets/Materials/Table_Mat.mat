@@ -164,7 +164,7 @@ Material:
     - _RampOffset: 0
     - _RampScale: 1
     - _RampSmoothing: 1
-    - _RampThreshold: 0.803
+    - _RampThreshold: 0.622
     - _RampType: 0
     - _ReceiveShadows: 1
     - _ReceiveShadowsOff: 1
